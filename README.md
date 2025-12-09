@@ -30,13 +30,13 @@ class Developer {
 ## 📊 Actividad
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO&theme=one-dark-pro&hide_border=true&area=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=QuantumCpp&theme=one-dark-pro&hide_border=true&area=true" alt="Contribution Graph" />
 </p>
 
 ## 🏆 Logros
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TU_USUARIO&theme=onedark&no-frame=true&row=1&column=7" alt="Trofeos" />
+  <img src="https://github-profile-trophy.vercel.app/?username=QuantumCpp&theme=onedark&no-frame=true&row=1&column=7" alt="Trofeos" />
 </p>
 
 ---
