@@ -41,9 +41,10 @@ while (curious) {
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
 
-*Yes, I use Neovim. No, I don't remember how to exit Vim either*
+
+Windows + Visual Studio Community — where C++ feels at home
 
 ## 🌎 Random Facts
 
